@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Toggle Ringer</string>
+    <string name="action_settings">Settings</string>
+    <string name="toast_toggle00">Silent</string>
+    <string name="toast_toggle01">Vibrate</string>
+    <string name="toast_toggle02">Normal</string>
+    <string name="ivWidget">Widget Logo</string>
+
+</resources>
